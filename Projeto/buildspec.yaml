@@ -10,3 +10,4 @@ artifacts:
   files:
     - '**/*'
   base-directory: build
+  name: Projeto-Aurora
